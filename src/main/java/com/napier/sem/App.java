@@ -16,9 +16,9 @@ public class App
         // Display results
         a.displayEmployee(emp);
 
-        // Disconnect from database
+    // Disconnect from database
         a.disconnect();
-    }
+}
     /**
      * Connection to MySQL database.
      */
